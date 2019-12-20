@@ -1,5 +1,9 @@
 # sql-repository
 
+###### 
+I placed the table schemata and the queries under the same sql file
+
+
 Data Modeling
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
 
